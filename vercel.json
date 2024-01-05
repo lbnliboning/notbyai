@@ -1,6 +1,6 @@
 {
 	"version": 2,
 	"routes": [
-		{"src": "/(.*)","dest": "https://notbyai.fyi/$1"}
+		{"src": "/(.*)","dest": "https://googlegemini.co/$1"}
 	]
 }
